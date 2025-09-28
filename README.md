@@ -12,10 +12,10 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 ![Search Phones](https://github.com/ahmedhamdyelshimy/Search-phones-on-Amazon-Power-BI-/blob/main/Dashboard.png?raw=true)
 # 💡 Recommendations
 ## 1.Increase investment in the following brands:
-* Samsung Galaxy
-• Reason (Sales volume = 46,700, representing 32.36% of total sales)
-• Reason (Average rating = 4.08)
-• Reason (Average price = $258.3)
+- * Samsung Galaxy
+-- • Reason (Sales volume = 46,700, representing 32.36% of total sales)
+-- • Reason (Average rating = 4.08)
+-- • Reason (Average price = $258.3)
 * Apple iPhone
 • Reason (Sales volume = 18,950, representing 13.13% of total sales)
 • Reason (Average rating = 4.29)
