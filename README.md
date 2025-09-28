@@ -1,4 +1,4 @@
-# Search-Phones-on-Amazon-Power-BI
+# Search Phoneson Amazon-Power BI
 Analyzing the performance of the most popular and highly rated phones on Amazon to identify opportunities to improve sales and marketing visibility.
 # 📌 Overview
 - Amazon's mobile phone market presents an analytical challenge due to the vast amount of unstructured data and the need for analysts to have standardized key performance metrics (KPIs) to compare products fairly.
