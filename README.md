@@ -11,7 +11,7 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 # 📊 Dashboard
 ![Search Phones](https://github.com/ahmedhamdyelshimy/Search-phones-on-Amazon-Power-BI-/blob/main/Dashboard.png?raw=true)
 # 💡 Recommendations
-1. Increase investment in the following brands:
+## 1.Increase investment in the following brands:
 * Samsung Galaxy
 • Reason (Sales volume = 46,700, representing 32.36% of total sales)
 • Reason (Average rating = 4.08)
@@ -24,11 +24,11 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 • Reason (Sales volume = 16,250, representing 11.26% of total sales)
 • Reason (Average rating = 4.12)
 • Reason (Average price = $137.2)
-2. We should join the Prime program to increase sales.
+## 2.We should join the Prime program to increase sales.
 The reason is its strong impact, as it affects (sales volume = 104.5, representing 72.4% of total sales).
 Without it, (sales volume = 39.8, representing 27.6% of total sales).
-3. The speed with which unavailable products are available.
+## 3.The speed with which unavailable products are available.
 The reason is that there is high demand for them, as (sales volume = 111,600, representing 77.3% of total sales).
-4. Preparing a large package of offers to launch with our products.
+## 4.Preparing a large package of offers to launch with our products.
 The reason is that there is intense competition, as (total offers on products = 2,632 offers).
 
