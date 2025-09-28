@@ -9,4 +9,5 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 - Texts in the Sales Volume column were removed and filled with the median.
 - Thus, each column was processed appropriately.
 # 📊 Dashboard
-![Search Phones]()
+![Search Phones](<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/da56b4bd-2a6c-4f20-82dd-a3487846d96d" />
+)
