@@ -9,4 +9,4 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 - Texts in the Sales Volume column were removed and filled with the median.
 - Thus, each column was processed appropriately.
 # 📊 Dashboard
-![](C:\Users\HFCS\OneDrive\Desktop\Github\Dashboard.png)
+![]([https://github.com/ahmedhamdyelshimy/Search-phones-on-Amazon-Power-BI-/blob/main/Dashboard.png)
