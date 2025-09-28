@@ -31,4 +31,9 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 - The reason is that there is high demand for them, as (sales volume = 111,600, representing 77.3% of total sales).
 ## 4.Preparing a large package of offers to launch with our products.
 - The reason is that there is intense competition, as (total offers on products = 2,632 offers).
+# 🛠 Tools
+-	Power BI (dashboards, DAX)
+-	Power Query (Data Cleaning)
+# 📁 Files
+-
 
