@@ -35,5 +35,6 @@ Analyzing the performance of the most popular and highly rated phones on Amazon 
 -	Power BI (dashboards, DAX)
 -	Power Query (Data Cleaning)
 # 📁 Files
--
+- Dashboard.png #### :Dashoard
+
 
